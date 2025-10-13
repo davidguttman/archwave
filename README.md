@@ -1,4 +1,4 @@
-# Archwave - Theme for Omarchy
+# Archwave - Vaporwave Theme for Omarchy
 
 A dreamy vaporwave aesthetic theme featuring pastel pinks, purples, and cyans with a retro-futuristic atmosphere.
 
