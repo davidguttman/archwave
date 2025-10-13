@@ -20,3 +20,4 @@ omarchy-theme-install https://github.com/davidguttman/archwave
 ![image 0](preview/preview-0.png)
 ![image 1](preview/preview-1.png)
 ![image 2](preview/preview-2.png)
+![image 3](preview/preview-3.png)
