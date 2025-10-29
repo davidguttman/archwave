@@ -12,7 +12,7 @@ return {
 			transparent = false,
 			on_colors = function(colors)
 				colors.bg = "#1a0d2e"
-				colors.bg_dark = "#150a26"
+				colors.bg_dark = "#1a0d2e"
 				colors.bg_highlight = "#2d1b4e"
 				colors.terminal_black = "#2d1b4e"
 				colors.fg = "#d4a5ff"
